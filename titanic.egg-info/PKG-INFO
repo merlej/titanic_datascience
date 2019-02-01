@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: titanic
+Version: 0.1
+Summary: Analysis of the Titanic dataset
+Home-page: https://github.com/<github_account>/titanic_datascience
+Author: Merle Glick
+Author-email: merle.glick@gmail.com
+License: MIT
+Description: Analysis of the Titanic dataset
+        ===============================
+        
+        This project aims at analyzing Kaggle's Titanic dataset and build a
+        predictive model for the Titanic datascience challenge
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
